@@ -1,17 +1,7 @@
-# 🌈 Minimal Ruby Project
+# 🌈 Web Scraper
 
-A template for your Ruby project!
-
-# Features
-
-* Basic project structure 
-* Rakefile and test helper to run tests
-* Github Action workflow 
+A simple code to scrap web pages in Ruby !
 
 # Set up
 
-Run `bundle install`
-
-# Testing
-
-Run `rake test` 
+Change @url and CSS according to your need 
